@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-26T14:12:37 IST" name="Default suite" finished-at="2023-08-26T14:12:52 IST" duration-ms="14658">
+    <groups>
+    </groups>
+    <test started-at="2023-08-26T14:12:37 IST" name="Default test" finished-at="2023-08-26T14:12:52 IST" duration-ms="14658">
+      <class name="HybridFrameWork.Runner_class">
+        <test-method is-config="true" signature="lanch_bro()[pri:0, instance:HybridFrameWork.Runner_class@59505b48]" started-at="2023-08-26T14:12:37 IST" name="lanch_bro" finished-at="2023-08-26T14:12:42 IST" duration-ms="4575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanch_bro -->
+        <test-method signature="Access()[pri:0, instance:HybridFrameWork.Runner_class@59505b48]" started-at="2023-08-26T14:12:42 IST" name="Access" finished-at="2023-08-26T14:12:52 IST" duration-ms="9689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Access -->
+        <test-method is-config="true" signature="close_bro()[pri:0, instance:HybridFrameWork.Runner_class@59505b48]" started-at="2023-08-26T14:12:52 IST" name="close_bro" finished-at="2023-08-26T14:12:52 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_bro -->
+      </class> <!-- HybridFrameWork.Runner_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
